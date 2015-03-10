@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2801A3E1-6073-4FC5-A3D1-08129FFFD321</string>
+	<key>IDESourceControlProjectName</key>
+	<string>basicControlDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A1C787E9268D68649A0B4E6202A0CE01767FE0A</key>
+		<string>https://github.com/ianjsikora/lynda-ios-solutions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>basicControlDemo/basicControlDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A1C787E9268D68649A0B4E6202A0CE01767FE0A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ianjsikora/lynda-ios-solutions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A1C787E9268D68649A0B4E6202A0CE01767FE0A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A1C787E9268D68649A0B4E6202A0CE01767FE0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lynda-ios-solutions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
